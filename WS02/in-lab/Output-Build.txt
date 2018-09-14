@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: in-lab, Configuration: Debug Win32 ------
+1>in-lab.vcxproj -> D:\School\OOP244\OOP-Workshops-master\WS02\in-lab\Debug\in-lab.exe
+1>in-lab.vcxproj -> D:\School\OOP244\OOP-Workshops-master\WS02\in-lab\Debug\in-lab.pdb (Partial PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
